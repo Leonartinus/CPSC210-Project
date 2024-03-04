@@ -1,0 +1,17 @@
+{
+    "Scores": [
+      {
+        "Times": 1,
+        "Score": 5
+      },
+      {
+        "Times": 2,
+        "Score": 3
+      }
+    ],
+  "History Scores": "History Scores",
+  "Last Times": {
+    "Times": 3,
+    "Score": 0
+  }
+}
