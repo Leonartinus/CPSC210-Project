@@ -1,4 +1,4 @@
-# My Personal Project - Bridge Builder
+# Personal Project - Bridge Builder
 
 ## Description
 
